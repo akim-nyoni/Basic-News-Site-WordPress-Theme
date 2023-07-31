@@ -1,0 +1,48 @@
+a{
+  text-decoration: none !important;
+}
+
+.bg-light{
+  background: #dcdcdc !important;
+}
+
+/*
+*
+* Single Post
+*
+*/
+
+#comment {
+    width: 100%;
+}
+#author, #email, #url{
+    width: 100%;
+}
+#email-notes{
+    display: none;
+}
+
+.background-comments{
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.profile-template{
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    background: green;
+    border-radius: 15px;
+    border:1px solid #333;
+}
+
+.profile-template i{
+  font-size: 25px;
+  margin: 0 3px;
+  padding: 1.5px;
+}
+
+.container-profile-template{
+    display: flex;
+}
